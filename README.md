@@ -1,2 +1,3 @@
 # hello-word
 practise
+....hii...this is my first learning in github...
